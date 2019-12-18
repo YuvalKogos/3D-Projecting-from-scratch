@@ -1,0 +1,10 @@
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\bin\Debug\3D_Projecting.exe.config
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\bin\Debug\3D_Projecting.exe
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\bin\Debug\3D_Projecting.pdb
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\_3D_Projecting.Properties.Resources.resources
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\3D_Projecting.csproj.GenerateResource.Cache
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\3D_Projecting.csproj.CoreCompileInputs.cache
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\3D_Projecting.exe
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\3D_Projecting.pdb
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\3D_Projecting.csprojResolveAssemblyReference.cache
+C:\Users\yuval\source\repos\3D_Projecting\3D_Projecting\obj\Debug\_3D_Projecting.Form1.resources
